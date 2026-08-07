@@ -1,4 +1,4 @@
-
+import java.util.*;
 class Solution {
     public ListNode partition(ListNode head, int x) {
         ListNode smallNode= new ListNode(0);
